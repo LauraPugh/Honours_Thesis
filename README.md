@@ -1,5 +1,5 @@
-# Honours_Thesis
-Supplementary files for honours thesis
+# Honours Thesis - Laura Pugh
+##Supplementary files
 
 In this repository, which is available publically, interactive files such as Krona visualisations and PDFs of differential heat trees along with the scripts used in my analysis can be found. 
 
